@@ -1,0 +1,110 @@
+---
+layout: default
+---
+
+<section class="flex flex-wrap justify-center">
+
+    <div class = "w-full sm:w-2/3 xl:w-1/3 p-5">
+        {{ content }}
+
+        <hr class="mb-4">
+    </div>
+
+</section>
+
+<section class="flex justify-center min-h-screen items-start" id="projects">
+    <div
+    class="flex flex-wrap justify-center items-start w-full sm:w-5/6 xl:w-4/6"
+    >
+    <h1
+        class="font-sans font-bold text-4xl text-center lg:text-left p-4 w-full text-primary"
+    >My projects</h1>
+
+    <!-- nav-->
+    {% assign tags = "All" | split:"/" %}
+
+    {% for post in site.posts %}
+        {% if post.path contains 'projects' %}
+            {% assign tags = tags | concat: post.tags | uniq %}
+        {% endif %}
+    {% endfor %}
+    <ul class="w-1/6 hidden lg:block pr-4">
+        {% for tag in tags %}
+        {% assign curr_tag = tag | replace: " ", "_" %}
+        <li class="font-semibold py-4"></li>
+        <button onclick="filter('{{ tag }}'); return false;" class = "p-2 text-left appearance-none tag-item" id="{{ curr_tag }}-item">
+            <span class="uppercase text-sm">{{ tag }}</span>
+        </button>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <!-- projects col-->
+    <div class="w-full sm:w-1/2 lg:w-5/6 p-4 pl-12">
+        {% for post in site.posts %}
+            {% if post.path contains 'projects' %}
+                {% include card.html project=post %}
+            {% endif %}
+        {% endfor %}
+    </div>
+    </div>
+</section>
+
+<script>
+activeTag = ""
+
+document.onreadystatechange = () => {
+  if (document.readyState === 'interactive') {
+    // dom ready
+    setActiveTag("All");
+  }
+};
+
+function filter(tag) {
+  tag = tag.split(' ').join('_');
+  setActiveTag(tag);
+  showContainer(tag);
+}
+
+function setActiveTag(tag) {
+  // loop through all items and remove active class
+  /*var items = document.getElementsByClassName('tag-item');
+  for(var i=0; i < items.length; i++) {
+    items[i].setAttribute('class', 'tag-item p-2 appearance-none text-left');
+  }
+
+  // set the selected tag's item to active
+  var item = document.getElementById(tag + '-item');
+  if(item) {
+    item.setAttribute('class', 'tag-item p-2 appearance-none text-left selected');
+  }*/
+  var item = document.getElementById(activeTag + '-item');
+  if(item) {
+    item.setAttribute('class', 'tag-item p-2 appearance-none text-left');
+  }
+
+  var item = document.getElementById(tag + '-item');
+  if(item) {
+    item.setAttribute('class', 'tag-item p-2 appearance-none text-left selected');
+  }
+  activeTag = tag;
+
+}
+
+function showContainer(tag) {
+  // loop through all lists and hide them
+  var lists = document.getElementsByClassName('card-container');
+  for(var i=0; i < lists.length; i++) {
+    lists[i].classList.add("hidden");
+  }
+
+  // remove the hidden class from the list corresponding to the selected tag
+  var list = document.getElementsByClassName(tag + '-class');
+  if(list) {
+      console.log(list)
+    for(var i=0; i < list.length; i++) {
+        list[i].classList.remove("hidden");
+    }
+  }
+}
+</script>

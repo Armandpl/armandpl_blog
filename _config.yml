@@ -1,0 +1,24 @@
+title: Armand du Parc Locmaria
+description: My portfolio and blog
+
+nav: [{ text: "Home", link: "/" }, { text: "Blog", link: "/blog" }, { text: "Resume", link: "/resume" }, { text: "Contact", link: "/contact" }]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.babel.js
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - src
+  - tailwind.config.js
+  - netlify.toml
