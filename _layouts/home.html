@@ -23,11 +23,11 @@ layout: default
     <!-- nav-->
     {% assign tags = "All" | split:"/" %}
 
-    {% for post in site.posts %}
-        {% if post.path contains 'projects' %}
-            {% assign tags = tags | concat: post.tags | uniq %}
-        {% endif %}
+    {% assign projects = site.pages | where_exp: "item" , "item.path contains 'projects'"%}
+    {% for post in projects %}
+        {% assign tags = tags | concat: post.tags | uniq %}
     {% endfor %}
+
     <ul class="w-1/6 hidden lg:block pr-4">
         {% for tag in tags %}
         {% assign curr_tag = tag | replace: " ", "_" %}
@@ -41,7 +41,7 @@ layout: default
 
     <!-- projects col-->
     <div class="w-full sm:w-1/2 lg:w-5/6 p-4 pl-12">
-        {% for post in site.posts %}
+        {% for post in projects %}
             {% if post.path contains 'projects' %}
                 {% include card.html project=post %}
             {% endif %}
