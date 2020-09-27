@@ -22,8 +22,9 @@ layout: default
         </div>
 
         {% if page.image %}
-            <div class="flex w-full justify-center">
-                <img src="{{ page.image }}" alt="">
+            <div class="flex flex-col w-full justify-center mb-4">
+                <img src="{{ page.image }}" class="object-contain" alt="">
+                <span class="text-gray-600 italic self-center mt-2">{{ page.caption }}</span>
             </div>
         {% endif %}
 
