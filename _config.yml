@@ -1,7 +1,11 @@
 title: Armand du Parc Locmaria
 description: My portfolio and blog
+url: "https://armandpl.com"
 
 nav: [{ text: "Home", link: "/" }, { text: "Blog", link: "/blog" }, { text: "Resume", link: "/resume" }, { text: "Contact", link: "/contact" }]
+
+plugins:
+  - jekyll-target-blank
 
 defaults:
   -
