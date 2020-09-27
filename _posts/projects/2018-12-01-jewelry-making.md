@@ -4,6 +4,7 @@ tags:
 title: Jewelry making
 date: 2018-12-01
 image: "/assets/images/silver.jpg"
+caption: "Silver coins."
 excerpt: This is how I made a ring out of silver from a 3D model.
 code: ''
 download: ''

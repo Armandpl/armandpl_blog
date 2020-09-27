@@ -3,6 +3,7 @@ tags: []
 title: Fullcashprono
 date: 2018-12-01
 image: "/assets/images/fcp.png"
+caption: "My client's logo..."
 excerpt: 'Fullcashprono.com is a project I worked on as a freelance developer. The
   client wanted a platform to sell betting prognostics as a subscription. '
 code: ''

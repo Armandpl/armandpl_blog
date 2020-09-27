@@ -4,6 +4,7 @@ tags:
 title: Skateboard press
 date: 2017-03-30
 image: "/assets/images/elevate.jpg"
+caption: "The deck after being painted and stained."
 excerpt: As a side project I designed and built a skateboard press which allowed me
   to make my own skateboards.
 code: ''
