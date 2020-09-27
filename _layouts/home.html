@@ -28,6 +28,8 @@ layout: default
         {% assign tags = tags | concat: post.tags | uniq %}
     {% endfor %}
 
+    {% assign sorted_projects = projects | sort: 'date' | reverse %}
+
     <ul class="w-1/6 hidden lg:block pr-4">
         {% for tag in tags %}
         {% assign curr_tag = tag | replace: " ", "_" %}
@@ -40,8 +42,8 @@ layout: default
     </ul>
 
     <!-- projects col-->
-    <div class="w-full sm:w-1/2 lg:w-5/6 p-4 pl-12">
-        {% for post in projects %}
+    <div class="w-full sm:w-1/2 lg:w-5/6 p-4 lg:pl-12">
+        {% for post in sorted_projects %}
             {% if post.path contains 'projects' %}
                 {% include card.html project=post %}
             {% endif %}
