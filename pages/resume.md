@@ -11,10 +11,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ### September 2017 - Present
 
-* Algorithm and Data Structure & Graph Theory
-* Maths (Calculus, Linear Algebra)
-* C/C++
-* Database and SQL fundamentals
+* Computer Science, Mathematics, Physics
 
 ## INSEEC London
 
@@ -24,12 +21,13 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 # Work Experience
 
-## ML Engineer at Sirius Insight
+## ML Engineer at [Sirius Insight](https://www.siriusinsight.ai/)
 
-### Nov 2019 - Feb 2020  
+### Nov 2019 - Aug 2020  
 
 * I built a computer vision pipeline from the ground up. The aim of the project was to detect objects on images taken by an embedded system. I set up labeling tools, trained the model and prepared it's deployment to production. The main challenge was the small size of objects to detect (<16px). The model achieves 88% average precision (0.88 AP@0.5).
 * I later ported the inference part of the pipeline to an embedded system.
+* I built a python library to compute probable paths and ETA for cargo ships and tankers.
 
 ## Front-end developer at [JEECE](https://www.jeece.fr/)
 
@@ -44,7 +42,7 @@ JEECE is one of the top 30 french junior enterprises. I have worked on two missi
 
 ### December 2018 - January 2019
 
-* I developed a website that allowed my client to sell betting prognostics as a subscription. I used VueJS for the front-end, Firebase for the back-end and Stripe to process the payments.
+* I developed a website that allowed my client to sell betting prognostics as a subscription.
 
 # Frameworks, tools and languages
 

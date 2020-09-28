@@ -1,7 +1,6 @@
 ---
 tags:
 - Automation
-- Java
 title: GrowOnline.fr - Automated indoor growing
 date: 2017-03-28
 image: "/assets/images/4.jpg"

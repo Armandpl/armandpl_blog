@@ -4,7 +4,7 @@ permalink: blog
 ---
 
 # What
-As of this writing, there is no writing on this blog. I intend to write about machine learning, personal knowledge management. Some posts will be in english some other in french.
+As of this writing, there is no writing on this blog. I intend to write about machine learning, personal knowledge management and what I am learning/building at the moment. Hopefully this page will be more exciting the next time you come around.
 
 # Why
 - People on the internet suggest that [writing is](https://guzey.com/personal/why-have-a-blog/){:target="_blank"} [a good idea](https://twitter.com/patio11/status/1290854152277389313){:target="_blank"}.
