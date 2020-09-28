@@ -20,6 +20,22 @@ body {
   height: calc(100vh - 80px);
 }
 
+#resume {
+    @apply font-serif;
+    h2 {
+        @apply font-semibold;
+    }
+    h3 {
+        @apply text-gray-800;
+    }
+    ol, ul{
+        padding-left: 3em;
+    }
+    li {
+        padding-left: -3em;
+    }
+}
+
 #projects {
     ul {
         list-style: none;
@@ -32,6 +48,9 @@ body {
     }
 }
 main {
+  img {
+      @apply self-center;
+  }
   h2 {
     font-size: 1.5rem;
   }
