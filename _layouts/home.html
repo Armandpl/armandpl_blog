@@ -21,12 +21,16 @@ layout: default
     >My projects</h1>
 
     <!-- nav-->
-    {% assign tags = "All" | split:"/" %}
+    {% assign tags = "" | split:"/" %}
 
     {% assign projects = site.pages | where_exp: "item" , "item.path contains 'projects'"%}
     {% for post in projects %}
         {% assign tags = tags | concat: post.tags | uniq %}
     {% endfor %}
+    {% assign tags = tags | sort %}
+
+    {% assign all_array = "All" | split:"/" %}
+    {% assign tags = all_array | concat: tags | uniq %}
 
     {% assign sorted_projects = projects | sort: 'date' | reverse %}
 
