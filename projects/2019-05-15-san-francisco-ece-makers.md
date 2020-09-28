@@ -22,4 +22,4 @@ Here is what my group came up with :
 ![](/assets/images/bt_descri.jpg)
 ![](/assets/images/bt2.jpg)
 
-Each of these heads represent a different character with a different personality. They are all connected by pulstating strips of lights. Each pulse represents a 'communication'. Since they are different they communicate at a different rate. When they all manage to communicate at the same time it creates a breakthrough and the pulse of light [goes to the ceiling](https://www.youtube.com/watch?v=0bMJ5EijWXs).
+Each of these heads represent a different character with a different personality. They are all connected by pulstating strips of lights. Each pulse represents a 'communication'. Since they are different they communicate at a different rate. When they all manage to communicate at the same time it creates a breakthrough and the pulse of light [goes to the ceiling](https://www.youtube.com/watch?v=0bMJ5EijWXs){:target="_blank"}.

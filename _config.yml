@@ -4,9 +4,6 @@ url: "https://armandpl.com"
 
 nav: [{ text: "Home", link: "/" }, { text: "Blog", link: "/blog" }, { text: "Resume", link: "/resume" }, { text: "Contact", link: "/contact" }]
 
-plugins:
-  - jekyll-target-blank
-
 defaults:
   -
     scope:
