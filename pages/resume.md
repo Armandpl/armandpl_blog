@@ -9,7 +9,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ## Master's Degree in Engineering - [ECE Paris](https://www.ece.fr/ecole-ingenieur/)
 
-### September 2017 - Present
+### September 2017 - 2022
 
 * Computer Science, Mathematics, Physics
 
@@ -17,13 +17,19 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ### September 2020 - April 2021
 
-* Kasar is a student organization I am founding with friends.  Our mission is tohelp students learn deep learning by organizing hackathons, recording podcasts andproviding guidance.
+* Kasar is a student organization I am founding with friends.  Our mission is to help students learn deep learning by organizing hackathons, recording podcasts and providing guidance.
 
 ## INSEEC London
 
 ### September 2019 - December 2019
 
 * Computer Vision, NLP, Java
+
+# Achievements
+
+* 2019 : Launched an app that got 1000+ downloads and ended up [Top 3 Product of the day on PH](https://www.producthunt.com/posts/draft-2faab89a-3e8d-4d42-ada3-73d69511104f)
+* 2018 : Ran a half marathon
+* 2014 : Launched a [Minecraft mod](https://armandpl.com/projects/cng-mods.html) that got 60k+ downloads and retained users for months
 
 # Work Experience
 
@@ -58,12 +64,6 @@ JEECE is one of the top 30 french junior enterprises. I have worked on two missi
 * Databases : MySQL, PostgreSQL
 * CAD and 3D Printing : Fusion 360, Cura
 * Other tools : Git, Google Firebase, Figma
-
-# Achievements
-
-* 2019 : Launched an app that got 1000+ downloads and ended up [Top 3 Product of the day on PH](https://www.producthunt.com/posts/draft-2faab89a-3e8d-4d42-ada3-73d69511104f)
-* 2018 : Ran a half marathon
-* 2014 : Launched a [Minecraft mod](https://armandpl.com/projects/cng-mods.html) that got 60k+ downloads and retained users for months
 
 # Languages
 
