@@ -37,6 +37,8 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ### Nov 2019 - Aug 2020  
 
+[Recommendation letter link](https://armandpl.com/assets/rec_letter_anthony_rix.pdf){:target="_blank"}
+
 * I built a computer vision pipeline from the ground up. The aim of the project wasto detect objects on images taken by an embedded system. I set up labeling tools,trained the model and prepared it’s deployment to production.
 * I later ported the inference part of the pipeline to an embedded system.
 * I built software to compute probable paths and ETA for cargo ships and tankers.
@@ -47,14 +49,14 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 JEECE is one of the top 30 french junior enterprises. I have worked on two missions:
 
-* I developed the front-end for a good part of a merchant website. I took care of the complex sign up application, chat, product pages and appointment scheduling.
+* I developed the front-end for the complex sign up application, chat, product pages and appointment scheduling of a merchant website.
 * I worked with a legacy codebase to add functionalities to an admin panel.
 
 ## [Freelance](https://www.malt.fr/profile/armandduparclocmaria) Full-Stack developer
 
 ### December 2018 - January 2019
 
-* I developed a website that allowed my client to sell betting prognostics as a subscription.
+* I developed a website allowing my client to sell betting prognostics as a subscription.
 
 # Frameworks, tools and languages
 
