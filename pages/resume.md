@@ -27,7 +27,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 # Achievements
 
-* 2019 : Launched an app that got 1000+ downloads and ended up [Top 3 Product of the day on PH](https://www.producthunt.com/posts/draft-2faab89a-3e8d-4d42-ada3-73d69511104f)
+* 2019 : Launched an app that got 1500+ downloads and ended up [Top 3 Product of the day on PH](https://www.producthunt.com/posts/draft-2faab89a-3e8d-4d42-ada3-73d69511104f)
 * 2018 : Ran a half marathon
 * 2014 : Launched a [Minecraft mod](https://armandpl.com/projects/cng-mods.html) that got 60k+ downloads and retained users for months
 
