@@ -13,8 +13,8 @@ download: ''
 read_more_bypass: ''
 
 ---
-A few year back, I saw [this video](https://www.youtube.com/watch?v=opsmd5yuBF0){:target="_blank"} where MIT researchers made an RC car drift by itself. I had no idea how it was done but though it was very cool.  
-Fast forward to April 2020 where I saw [this tweet](https://twitter.com/a1k0n/status/1236716786751422465){:target="_blank"} showing a very fast automous RC car. It revived my interest and I researched the subject, built an [Nvidia Jetracer car](https://github.com/NVIDIA-AI-IOT/jetracer){:target="_blank"} and hacked together an implementation of the original paper.  
+A few years back, I saw [this video](https://www.youtube.com/watch?v=opsmd5yuBF0){:target="_blank"} where MIT researchers made an RC car drift by itself. I had no idea how it was done but thought it was very cool.  
+Fast forward to April 2020 where I saw [this tweet](https://twitter.com/a1k0n/status/1236716786751422465){:target="_blank"} showing a very fast autonomous RC car. It revived my interest and I researched the subject, built an [Nvidia Jetracer car](https://github.com/NVIDIA-AI-IOT/jetracer){:target="_blank"} and hacked together an implementation of the original paper.  
 Except I didn't trained in a sim and transfered the learnings to the real world which was the whole point of the paper, but anyway it kind of works and I have lots of ideas for improvements!
 
 <div class="flex w-full justify-center">
