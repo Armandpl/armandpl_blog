@@ -39,7 +39,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 [Recommendation letter link](https://armandpl.com/assets/rec_letter_anthony_rix.pdf){:target="_blank"}
 
-* I built a computer vision pipeline from the ground up. The aim of the project wasto detect objects on images taken by an embedded system. I set up labeling tools,trained the model and prepared it’s deployment to production.
+* I built a computer vision pipeline from the ground up. The aim of the project was to detect objects on images taken by an embedded system. I set up labeling tools, trained the model and prepared it’s deployment to production.
 * I later ported the inference part of the pipeline to an embedded system.
 * I built software to compute probable paths and ETA for cargo ships and tankers.
 
