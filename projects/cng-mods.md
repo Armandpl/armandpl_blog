@@ -17,11 +17,11 @@ read_more_bypass: ''
 ---
 I might write a more detailed version of this story later but in the meantime :
 
-* I was 13, I stumbled upon a youtube video of a guy demoing a cool minecraft cheat mod.
-* I spotted his email on the video, sent him an email asking if he could teach me how build a minecraft cheat mod.
-* He taught me how to code ! Over the course of several months/years !
+* I was 13, I stumbled upon a youtube video of a guy demoing a cool Minecraft cheat mod.
+* I spotted his email on the video, sent him an email asking if he could teach me how to build a Minecraft cheat mod.
+* He taught me how to code! Over the course of several months/years!
 * I built my cheat mod and later merged it with his. We released it for free. Here is the [demo](https://www.youtube.com/watch?v=eDS0Vm_zNik){:target="_blank"}
 * This other guy did a youtube review that got [250k+ views](https://www.youtube.com/watch?v=A08b88tbsAM){:target="_blank"}.
-* We got a bunch of downloads. To this day I haven't written another piece of code that is used by that much people.
+* We got a bunch of downloads. To this day I haven't written another piece of code that is used by that many people.
 
 ![](/assets/images/mf.png)
