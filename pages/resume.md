@@ -17,7 +17,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ### September 2020 - April 2021
 
-* Kasar is a student organization helping students learn deep learning by organizing hackathons, hosting podcasts and mentoring beginners.
+* Kasar is a student organization helping students learn deep learning by organizing hackathons, hosting podcasts, and mentoring beginners.
 
 ## INSEEC London
 
@@ -35,7 +35,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 ## ML Engineer at [Sirius Insight](https://www.siriusinsight.ai/)
 
-### Nov 2019 - Aug 2020  
+### Nov 2019 - Aug 2020
 
 [Recommendation letter link](https://armandpl.com/assets/rec_letter_anthony_rix.pdf){:target="_blank"}
 
@@ -49,7 +49,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 JEECE is one of the top 30 french junior enterprises. I have worked on two missions:
 
-* Developed the front-end for the complex sign up application, chat, product pages and appointment scheduling of a merchant website. Presented demos to the clients
+* Developed the front-end for the complex sign up application, chat, product pages, and appointment scheduling of a merchant website. Presented demos to the clients
 * Upgraded an admin panel based on a legacy codebase.
 
 ## [Freelance](https://www.malt.fr/profile/armandduparclocmaria) Full-Stack developer
