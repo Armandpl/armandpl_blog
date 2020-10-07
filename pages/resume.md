@@ -13,11 +13,11 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 * Computer Science, Mathematics, Physics
 
-## Kasar.ai
+## Kasar.ai - Student organization - Co-Founder
 
 ### September 2020 - April 2021
 
-* Kasar is a student organization I am founding with friends.  Our mission is to help students learn deep learning by organizing hackathons, recording podcasts and providing guidance.
+* Kasar is a student organization helping students learn deep learning by organizing hackathons, hosting podcasts and mentoring beginners.
 
 ## INSEEC London
 
@@ -39,9 +39,9 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 [Recommendation letter link](https://armandpl.com/assets/rec_letter_anthony_rix.pdf){:target="_blank"}
 
-* I built a computer vision pipeline from the ground up. The aim of the project was to detect objects on images taken by an embedded system. I set up labeling tools, trained the model and prepared it’s deployment to production.
-* I later ported the inference part of the pipeline to an embedded system.
-* I built software to compute probable paths and ETA for cargo ships and tankers.
+* Built an object detection pipeline from the ground. I set up labeling tools, trained the model and deployed it to production, on an embedded system.
+* Created software to compute probable paths and ETA for cargo ships and tankers.
+* Demonstrated software capabilities to management by creating interactive demos.
 
 ## Front-end developer at [JEECE](https://www.jeece.fr/)
 
@@ -49,14 +49,14 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 JEECE is one of the top 30 french junior enterprises. I have worked on two missions:
 
-* I developed the front-end for the complex sign up application, chat, product pages and appointment scheduling of a merchant website.
-* I worked with a legacy codebase to add functionalities to an admin panel.
+* Developed the front-end for the complex sign up application, chat, product pages and appointment scheduling of a merchant website. Presented demos to the clients
+* Upgraded an admin panel based on a legacy codebase.
 
 ## [Freelance](https://www.malt.fr/profile/armandduparclocmaria) Full-Stack developer
 
 ### December 2018 - January 2019
 
-* I developed a website allowing my client to sell betting prognostics as a subscription.
+* Designed and developed a website allowing my client to sell betting prognostics as a subscription.
 
 # Frameworks, tools and languages
 
