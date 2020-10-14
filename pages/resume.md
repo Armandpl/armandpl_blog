@@ -39,7 +39,7 @@ download: "/assets/Armand du Parc Locmaria - Resume.pdf"
 
 [Recommendation letter link](https://armandpl.com/assets/rec_letter_anthony_rix.pdf){:target="_blank"}
 
-* Built an object detection pipeline from the ground. I set up labeling tools, trained the model and deployed it to production, on an embedded system.
+* Built an object detection pipeline from the ground up. I set up labeling tools, trained the model and deployed it to production, on an embedded system.
 * Created software to compute probable paths and ETA for cargo ships and tankers.
 * Demonstrated software capabilities to management by creating interactive demos.
 
