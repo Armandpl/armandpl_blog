@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+- automation
+- electronics
 title: Smart lock
 date: 2013-05-03 22:00:00 +0000
 image: "/assets/images/smart-lock.png"
