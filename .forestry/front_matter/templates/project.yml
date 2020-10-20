@@ -32,3 +32,5 @@ fields:
 - type: text
   name: read_more_bypass
   label: read_more_bypass
+pages:
+- projects/smart-lock.md
