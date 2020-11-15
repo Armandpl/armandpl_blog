@@ -3,10 +3,10 @@ tags:
 - Automation
 - Electronics
 title: Smart lock
-date: 2013-05-03 22:00:00 +0000
+date: 2013-05-03T22:00:00.000+00:00
 image: "/assets/images/smart-lock.png"
 caption: ''
-excerpt: I built a smart lock before it was a thing.
+excerpt: I built a smart lock in 2013.
 code: ''
 external_link: ''
 external_link_name: ''
