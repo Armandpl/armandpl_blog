@@ -10,11 +10,11 @@ layout: default
             <h3 class="text-gray-700 font-thin">{{ page.date | date: "%B %-d, %Y" }}</h3>
 
             <div class = "mt-2 text-xl">
-                {% if page.code != '' %}
+                {% if page.code and page.code != '' %}
                     <a class = "mr-2" href="{{ page.code }}">Github</a>
                 {% endif %}
 
-                {% if page.external_link %}
+                {% if page.external_link and page.external_link != '' %}
                     <a href="{{ page.external_link }}">{{ page.external_link_name }}</a>
                 {% endif %}
             </div>
