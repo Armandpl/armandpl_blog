@@ -33,4 +33,5 @@ fields:
   name: read_more_bypass
   label: read_more_bypass
 pages:
+- pages/the-mom-test.md
 - projects/smart-lock.md
