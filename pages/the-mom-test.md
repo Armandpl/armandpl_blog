@@ -9,113 +9,112 @@ download: ''
     - Author: [[Rob Fitzpatrick]]
     - Reading Status:: [[read]]
     - Tags:: #book, #business
-- # Notes
-    - ## Why should I care about good customer conversations ?
-        - That's a way to find real problems to solve
-        - "Bad customer conversations aren't just useless. Worse they convince you that you're on the right path. They give you a false positive that causes you to over-invest your cash, your time, and your team"
-    - ## How to do it right ?
-        - ## Chap 1 - The Mom Test
-            - Talk about their life instead of your idea. (you can also not talk about your idea at all, at least at the beggining)
-            - Ask about specifics in the past instead of generics or opinions about the future
-            - Talk less and listen more
-        - ## Chap 2 - Avoiding bad data
-            - "Bad data gives false negatives (thinking the idea is dead when it's not) and false positive (thinking we're on the right track when we're not)"
-            - Il existe trois type de données inutiles/corrompues 
-                - Les compliments
-                - Le fluff, le vent, les banalités (generics,  les hypothèses et le future)
-                - Les idées
-            - ### Deflecting compliments
-                - A good meeting can be a meeting where we get a solid negative.
-                - **we crave validation**, ça nous donne l'impression que les compliments sont une donnée fiable alors que vraiment pas
-                - Symptome de retour au bureau:
-                    - "Le meeting s'est super bien passé !"
-                    - "Les mecs on a plein de feedback positif !"
-                    - "Tout le monde a kiffé l'idée"
-            - ### Anchoring fluff
-                - **Il existe trois formes de fluff**
-                    - generic claims ("I usually", "I always", "I never")
-                    - des trucs conjugués au futur ("I would", "I will")
-                    - les hypothèses ("I might", "I could")
-                - Le pire fluff c'est "I would definitly buy that" => tlm est toujours plus optimiste mtn que dans le futur **quand il faut payer**
-                - Il y a des questions qui appellent le fluff genre "Would you buy that, use that ...". Généralement c'est des trucs au futur. Il vaut mieux les éviter.
-                - "If someone's being flaky put them in to a decision"
-            - ### Digging beneath ideas
-                - Parfois pdt le meeting ils vont passer de ton côté et proposer pleins d'idées. Il ne faut pas forcément les prendre/**pas forcément accepter la feature request** mais plutot chercher pourquoi ils ont proposé cette idée. 
-                    - Il y a peu être des infos importantes la dessous ou peut être qu'il y a une solution beaucoup plus simple pour résoudre le problème que leur idée de feature résoudrait.
-                    - **bonne questions à poser pour répondre aux feature request**
-                        - "Why do you want that ?"
-                        - "What would that let you do ?"
-                        - "How are you coping without it ?"
-                        - "Do you think we should push back the launch or add that feature, or is it smth we could add later"
-                        - "How would that fit into your day ?"
-                - strong emotional signal ("It's the worst/best part of my day") => dig, understand why ?
-                    - bonnes questions pour faire ça :
-                        - "Tell me more about that"
-                        - "What makes it so awfull ?"
-                        - "You seem pretty excited about that - it's a big deal ?"
-            - ### Avoiding approval-seeking
-                - You can seek approval intentionally or inadvertently
-                - Symptoms of fishing for compliments
-                    - "I'm thinking of starting a business...est-ce que tu pense que ca va marcher ?"
-                    - "J'ai une trop bonne idee d'app...est-ce que tu l'aime bien ?"
-                - Symptoms of the pathos problem or exposing your ego
-                    - "So here's that top-secet project I quit my job for...what do you think?"
-                    - "I can take it - be honest and tell me what you really think!"
-                - Re-center the conversation on the person and their problems, don't talk about you or you idea
-            - ### Cut off pitches
-                - Pitcher sa solution c'est comme "seeking approval" mais en pire parce que tu force. "Anyone will say your idea is great if you're annoying enough about it"
-                - Symptoms 
-                    - "No no, I don't think you get it..."
-                    - "Yes, but it also does this !"
-                - If you get pitchy, apologize and focus back on the person
-            - ### Talk less
-                - Tu vas etre tenté d'interrompre la personne, par exemple si elle a mal compris l'idée ou pour lui dire que t'as déja pense a ce qu'elle en train de raconter. **don't**, il faut que tu comprenne le modele mental du monde de ton potentiel client.
-        - ## Chap 3 - Asking important questions
-            - Il ne faut pas poser des questions qui vont biaiser l'interlocuteur mais il faut aussi poser des questions importantes, **des questions qui font peur**. 
-                - "You can tell it's an important question when its answer could completely change (or disprove) your business.
-                - A chaque interview, il faut poser au moins une question qui a le potentiel de detruire le business que t'imagine.
-            - ### Love bad news
-                - **Bad news is "solid learning and is getting us closer to the truth"**
-                - Parfois les gens vont avoir une reponse tiède à tes questions et/où à ton idée
-                    - ne pas essayer de leur pitcher pour leur soutirer une reponse plus enthousiaste
-                    - c'est une info importante, ca veut peut etre dire qu'il n'y a pas de probleme et que tu peux economiser les 50k que t'allais utiliser pour construire ta solution
-                    - C'est une reponse qui t'aide probablement plus que "oh wow c'est une trop bonne idee") (<= prolly a lie)
-            - ### Prepare your list of 3
-                - Quand tu auras une conversations/interview non preparee, tu aura tendance a te concentrer sur ds chose triviales pour garder la conversation "confortable", pour ne pas sortir de ta zone de confort.
-                    - C'est pour ca qu'il faut que tu prepare une liste des 3 choses les plus importante que tu veux apprendre de chaque type de personne (clients, investisseurs, experts de l'industrie, key hires...)
-                    - Avoir cette liste prete te permettra aussi de profiter d'occasion aleatoire, si tu croise quelqu'un d'interessant tu pourra directement lui poser ta question la plus importante plutot que de lui proposer de prendre un cafe plus tard (ce que tu ne fera jamais).
-        - ## Chap 4 - Keeping it casual
-            - Etre trop formel c'est une excuse qu'on utilise pour "deal with the ambiguous and akward situation" mais cela coute beaucoup de temps
-                - "learning about a customer and their problems works better as a quick and casual chat rather than a long, formal meeting"
-                - "The meeting anti-pattern is the tendency to relegate every opportunity for customer conversation into a calendar block"
-                - Si t'as l'impression qu'ils te font une faveur c'est que c'est trop formel
-            - ### How long are meetings
-                - **5 min max.** pour comprendre si un probleme existe et est important
-                - **10-15 min** pour creuser un peu plus, comprendre comment le prospect passe son temps, qu'est-ce qu'il a deja essaye...
-                - **1h+** pour apprendre les details d'une industrie
-        - ## Chap 5 - Commitment and avancement
-            - "When you fail to push for advancement, you end up with zombie leads: potential customers (or investors) who keep taking meetings [...] but who never seem to write a check. It's like your startup has been friend-zoned."
-            - **Commitment** : They are showing they're serious by giving up something they value such as time, reputation or money
-            - **Advancement** : They are moving to the next step of your real-world funnel and getting closer to purchasing
-            - ### Meetings either succeed or fail
-                - Si tu ne sais pas quelles sont les next step après un meeting, il n'avait aucun intérêt.
-                - Ask for commitment or advancement
-            - ### The currencies of conversation
-                - Major currencies are ::
-                    - time
-                        - un meeting programmé avec un but précis et connu
-                        - donner du feeback sur des wireframes
-                        - essayer le produit pendant une période non triviale
-                    - reputation risk
-                        - introduction à des paires ou aux collègues
-                        - Intro à un décideur (boss, spouse, lawyer)
-                        - giving a public testimonial or case study
-                    - money
-                        - Letter of intent
-                        - Pre-Order
-                        - Deposit
-                - Un engagement fort combinera plusieurs de ces "devises"
-        - ## End
-            - **This stuff is fast !**
-            - spend an hour to prep meetings and then go talk to people
-            - spend a week talking to customers and then get to building
+- # Why should I care about good customer conversations ?
+    - That's a way to find real problems to solve
+    - "Bad customer conversations aren't just useless. Worse they convince you that you're on the right path. They give you a false positive that causes you to over-invest your cash, your time, and your team"
+- # How to do it right ?
+    - ## Chap 1 - The Mom Test
+        - Talk about their life instead of your idea. (you can also not talk about your idea at all, at least at the beggining)
+        - Ask about specifics in the past instead of generics or opinions about the future
+        - Talk less and listen more
+    - ## Chap 2 - Avoiding bad data
+        - "Bad data gives false negatives (thinking the idea is dead when it's not) and false positive (thinking we're on the right track when we're not)"
+        - Il existe trois type de données inutiles/corrompues 
+            - Les compliments
+            - Le fluff, le vent, les banalités (generics,  les hypothèses et le future)
+            - Les idées
+        - ### Deflecting compliments
+            - A good meeting can be a meeting where we get a solid negative.
+            - **we crave validation**, ça nous donne l'impression que les compliments sont une donnée fiable alors que vraiment pas
+            - Symptome de retour au bureau:
+                - "Le meeting s'est super bien passé !"
+                - "Les mecs on a plein de feedback positif !"
+                - "Tout le monde a kiffé l'idée"
+        - ### Anchoring fluff
+            - **Il existe trois formes de fluff**
+                - generic claims ("I usually", "I always", "I never")
+                - des trucs conjugués au futur ("I would", "I will")
+                - les hypothèses ("I might", "I could")
+            - Le pire fluff c'est "I would definitly buy that" => tlm est toujours plus optimiste mtn que dans le futur **quand il faut payer**
+            - Il y a des questions qui appellent le fluff genre "Would you buy that, use that ...". Généralement c'est des trucs au futur. Il vaut mieux les éviter.
+            - "If someone's being flaky put them in to a decision"
+        - ### Digging beneath ideas
+            - Parfois pdt le meeting ils vont passer de ton côté et proposer pleins d'idées. Il ne faut pas forcément les prendre/**pas forcément accepter la feature request** mais plutot chercher pourquoi ils ont proposé cette idée. 
+                - Il y a peu être des infos importantes la dessous ou peut être qu'il y a une solution beaucoup plus simple pour résoudre le problème que leur idée de feature résoudrait.
+                - **bonne questions à poser pour répondre aux feature request**
+                    - "Why do you want that ?"
+                    - "What would that let you do ?"
+                    - "How are you coping without it ?"
+                    - "Do you think we should push back the launch or add that feature, or is it smth we could add later"
+                    - "How would that fit into your day ?"
+            - strong emotional signal ("It's the worst/best part of my day") => dig, understand why ?
+                - bonnes questions pour faire ça :
+                    - "Tell me more about that"
+                    - "What makes it so awfull ?"
+                    - "You seem pretty excited about that - it's a big deal ?"
+        - ### Avoiding approval-seeking
+            - You can seek approval intentionally or inadvertently
+            - Symptoms of fishing for compliments
+                - "I'm thinking of starting a business...est-ce que tu pense que ca va marcher ?"
+                - "J'ai une trop bonne idee d'app...est-ce que tu l'aime bien ?"
+            - Symptoms of the pathos problem or exposing your ego
+                - "So here's that top-secet project I quit my job for...what do you think?"
+                - "I can take it - be honest and tell me what you really think!"
+            - Re-center the conversation on the person and their problems, don't talk about you or you idea
+        - ### Cut off pitches
+            - Pitcher sa solution c'est comme "seeking approval" mais en pire parce que tu force. "Anyone will say your idea is great if you're annoying enough about it"
+            - Symptoms 
+                - "No no, I don't think you get it..."
+                - "Yes, but it also does this !"
+            - If you get pitchy, apologize and focus back on the person
+        - ### Talk less
+            - Tu vas etre tenté d'interrompre la personne, par exemple si elle a mal compris l'idée ou pour lui dire que t'as déja pense a ce qu'elle en train de raconter. **don't**, il faut que tu comprenne le modele mental du monde de ton potentiel client.
+    - ## Chap 3 - Asking important questions
+        - Il ne faut pas poser des questions qui vont biaiser l'interlocuteur mais il faut aussi poser des questions importantes, **des questions qui font peur**. 
+            - "You can tell it's an important question when its answer could completely change (or disprove) your business.
+            - A chaque interview, il faut poser au moins une question qui a le potentiel de detruire le business que t'imagine.
+        - ### Love bad news
+            - **Bad news is "solid learning and is getting us closer to the truth"**
+            - Parfois les gens vont avoir une reponse tiède à tes questions et/où à ton idée
+                - ne pas essayer de leur pitcher pour leur soutirer une reponse plus enthousiaste
+                - c'est une info importante, ca veut peut etre dire qu'il n'y a pas de probleme et que tu peux economiser les 50k que t'allais utiliser pour construire ta solution
+                - C'est une reponse qui t'aide probablement plus que "oh wow c'est une trop bonne idee") (<= prolly a lie)
+        - ### Prepare your list of 3
+            - Quand tu auras une conversations/interview non preparee, tu aura tendance a te concentrer sur ds chose triviales pour garder la conversation "confortable", pour ne pas sortir de ta zone de confort.
+                - C'est pour ca qu'il faut que tu prepare une liste des 3 choses les plus importante que tu veux apprendre de chaque type de personne (clients, investisseurs, experts de l'industrie, key hires...)
+                - Avoir cette liste prete te permettra aussi de profiter d'occasion aleatoire, si tu croise quelqu'un d'interessant tu pourra directement lui poser ta question la plus importante plutot que de lui proposer de prendre un cafe plus tard (ce que tu ne fera jamais).
+    - ## Chap 4 - Keeping it casual
+        - Etre trop formel c'est une excuse qu'on utilise pour "deal with the ambiguous and akward situation" mais cela coute beaucoup de temps
+            - "learning about a customer and their problems works better as a quick and casual chat rather than a long, formal meeting"
+            - "The meeting anti-pattern is the tendency to relegate every opportunity for customer conversation into a calendar block"
+            - Si t'as l'impression qu'ils te font une faveur c'est que c'est trop formel
+        - ### How long are meetings
+            - **5 min max.** pour comprendre si un probleme existe et est important
+            - **10-15 min** pour creuser un peu plus, comprendre comment le prospect passe son temps, qu'est-ce qu'il a deja essaye...
+            - **1h+** pour apprendre les details d'une industrie
+    - ## Chap 5 - Commitment and avancement
+        - "When you fail to push for advancement, you end up with zombie leads: potential customers (or investors) who keep taking meetings [...] but who never seem to write a check. It's like your startup has been friend-zoned."
+        - **Commitment** : They are showing they're serious by giving up something they value such as time, reputation or money
+        - **Advancement** : They are moving to the next step of your real-world funnel and getting closer to purchasing
+        - ### Meetings either succeed or fail
+            - Si tu ne sais pas quelles sont les next step après un meeting, il n'avait aucun intérêt.
+            - Ask for commitment or advancement
+        - ### The currencies of conversation
+            - Major currencies are ::
+                - time
+                    - un meeting programmé avec un but précis et connu
+                    - donner du feeback sur des wireframes
+                    - essayer le produit pendant une période non triviale
+                - reputation risk
+                    - introduction à des paires ou aux collègues
+                    - Intro à un décideur (boss, spouse, lawyer)
+                    - giving a public testimonial or case study
+                - money
+                    - Letter of intent
+                    - Pre-Order
+                    - Deposit
+            - Un engagement fort combinera plusieurs de ces "devises"
+    - ## End
+        - **This stuff is fast !**
+        - spend an hour to prep meetings and then go talk to people
+        - spend a week talking to customers and then get to building
