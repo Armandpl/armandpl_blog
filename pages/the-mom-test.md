@@ -3,7 +3,6 @@ title: The Mom Test
 layout: default
 permalink: "/the-mom-test"
 download: ''
-published: false
 
 ---
 - # Reference
