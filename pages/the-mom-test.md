@@ -14,12 +14,11 @@ download: ''
         - That's a way to find real problems to solve
         - "Bad customer conversations aren't just useless. Worse they convince you that you're on the right path. They give you a false positive that causes you to over-invest your cash, your time, and your team"
     - ## How to do it right ?
-        - ### Chap 1 - The Mom Test
-            - ### The mom test
-                - 1. Talk about their life insted of your idea. (you can also not talk about your idea at all, at least at the beggining)
-                - 2. Ask about specifics in the past instead of generics or opinions about the future
-                - 3. Talk less and listen more
-        - ### Chap 2 - Avoiding bad data
+        - ## Chap 1 - The Mom Test
+            - Talk about their life instead of your idea. (you can also not talk about your idea at all, at least at the beggining)
+            - Ask about specifics in the past instead of generics or opinions about the future
+            - Talk less and listen more
+        - ## Chap 2 - Avoiding bad data
             - "Bad data gives false negatives (thinking the idea is dead when it's not) and false positive (thinking we're on the right track when we're not)"
             - Il existe trois type de données inutiles/corrompues 
                 - Les compliments
@@ -28,19 +27,16 @@ download: ''
             - ### Deflecting compliments
                 - A good meeting can be a meeting where we get a solid negative.
                 - **we crave validation**, ça nous donne l'impression que les compliments sont une donnée fiable alors que vraiment pas
-                - Symptome pdt le meeting:
-                    - "Merci !"
-                    - "I'm glad you like it"
                 - Symptome de retour au bureau:
                     - "Le meeting s'est super bien passé !"
                     - "Les mecs on a plein de feedback positif !"
                     - "Tout le monde a kiffé l'idée"
             - ### Anchoring fluff
-                - **Il existe trois formes de fluff **
+                - **Il existe trois formes de fluff**
                     - generic claims ("I usually", "I always", "I never")
                     - des trucs conjugués au futur ("I would", "I will")
                     - les hypothèses ("I might", "I could")
-                - Le pire fluff c'est "I would definitly buy that" => tlm est toujours plus optimiste mtn que dans le futur quand il faut payer
+                - Le pire fluff c'est "I would definitly buy that" => tlm est toujours plus optimiste mtn que dans le futur **quand il faut payer**
                 - Il y a des questions qui appellent le fluff genre "Would you buy that, use that ...". Généralement c'est des trucs au futur. Il vaut mieux les éviter.
                 - "If someone's being flaky put them in to a decision"
             - ### Digging beneath ideas
@@ -74,7 +70,7 @@ download: ''
                 - If you get pitchy, apologize and focus back on the person
             - ### Talk less
                 - Tu vas etre tenté d'interrompre la personne, par exemple si elle a mal compris l'idée ou pour lui dire que t'as déja pense a ce qu'elle en train de raconter. **don't**, il faut que tu comprenne le modele mental du monde de ton potentiel client.
-        - ### Chap 3 - Asking important questions
+        - ## Chap 3 - Asking important questions
             - Il ne faut pas poser des questions qui vont biaiser l'interlocuteur mais il faut aussi poser des questions importantes, **des questions qui font peur**. 
                 - "You can tell it's an important question when its answer could completely change (or disprove) your business.
                 - A chaque interview, il faut poser au moins une question qui a le potentiel de detruire le business que t'imagine.
@@ -88,7 +84,7 @@ download: ''
                 - Quand tu auras une conversations/interview non preparee, tu aura tendance a te concentrer sur ds chose triviales pour garder la conversation "confortable", pour ne pas sortir de ta zone de confort.
                     - C'est pour ca qu'il faut que tu prepare une liste des 3 choses les plus importante que tu veux apprendre de chaque type de personne (clients, investisseurs, experts de l'industrie, key hires...)
                     - Avoir cette liste prete te permettra aussi de profiter d'occasion aleatoire, si tu croise quelqu'un d'interessant tu pourra directement lui poser ta question la plus importante plutot que de lui proposer de prendre un cafe plus tard (ce que tu ne fera jamais).
-        - ### Chap 4 - Keeping it casual
+        - ## Chap 4 - Keeping it casual
             - Etre trop formel c'est une excuse qu'on utilise pour "deal with the abiguous and akward situation" mais cela coute beaucoup de temps
                 - "learning about a customer and their problems works better as a quick and casual chat rather than a long, formal meeting"
                 - "The meeting anti-pattern is the tendency to relegate every opportunity for customer conversation into a calendar block"
@@ -97,7 +93,7 @@ download: ''
                 - **5 min max.** pour comprendre si un probleme existe et est important
                 - **10-15 min** pour creuser un peu plus, comprendre comment le prospect passe son temps, qu'est-ce qu'il a deja essaye...
                 - **1h+** pour apprendre les details d'une industrie
-        - ### Chap 5 - Commitment and avancement
+        - ## Chap 5 - Commitment and avancement
             - "When you fail to push for advancement, you end up with zombie leads: potential customers (or investors) who keep taking meetings [...] but who never seem to write a check. It's like your startup has been friend-zoned."
             - **Commitment** : They are showing they're serious by giving up something they value such as time, reputation or money
             - **Advancement** : They are moving to the next step of your real-world funnel and getting closer to purchasing
@@ -119,7 +115,7 @@ download: ''
                         - Pre-Order
                         - Deposit
                 - Un engagement fort combinera plusieurs de ces "devises"
-        - ### End
-            - *This stuff is fast !**
+        - ## End
+            - **This stuff is fast !**
             - spend an hour to prep meetings and then go talk to people
             - spend a week talking to customers and then get to building
