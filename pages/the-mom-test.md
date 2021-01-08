@@ -85,7 +85,7 @@ download: ''
                     - C'est pour ca qu'il faut que tu prepare une liste des 3 choses les plus importante que tu veux apprendre de chaque type de personne (clients, investisseurs, experts de l'industrie, key hires...)
                     - Avoir cette liste prete te permettra aussi de profiter d'occasion aleatoire, si tu croise quelqu'un d'interessant tu pourra directement lui poser ta question la plus importante plutot que de lui proposer de prendre un cafe plus tard (ce que tu ne fera jamais).
         - ## Chap 4 - Keeping it casual
-            - Etre trop formel c'est une excuse qu'on utilise pour "deal with the abiguous and akward situation" mais cela coute beaucoup de temps
+            - Etre trop formel c'est une excuse qu'on utilise pour "deal with the ambiguous and akward situation" mais cela coute beaucoup de temps
                 - "learning about a customer and their problems works better as a quick and casual chat rather than a long, formal meeting"
                 - "The meeting anti-pattern is the tendency to relegate every opportunity for customer conversation into a calendar block"
                 - Si t'as l'impression qu'ils te font une faveur c'est que c'est trop formel
